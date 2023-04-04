@@ -1,4 +1,5 @@
 In this notebook, we will use an R-group decomposition to perform exploratory data analysis on a dataset from the ChEMBL database. We will define a common scaffold for a set of molecules and use the function rdRGroupDecomposition.RGroupDecompose from the RDKit to create a table of substituents attached at different positions on the scaffold.
+
 To perform this analysis, we will carry out the following steps.
 
 1. Read the input data from a SMILES file
